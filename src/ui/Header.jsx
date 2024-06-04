@@ -3,7 +3,7 @@ import SearchOrder from "../features/order/SearchOrder";
 import Username from "../features/user/Username";
 const Header = () => {
   return (
-    <header className="border-b border-stone-200 bg-yellow-500 px-3 py-4 uppercase sm:px-6 flex items-center justify-between">
+    <header className="flex items-center justify-between border-b border-stone-200 bg-yellow-400 px-3 py-4 uppercase sm:px-6">
       <Link to="/" className="tracking-widest">
         Fast React Pizza Co.
       </Link>
