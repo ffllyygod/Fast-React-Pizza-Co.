@@ -63,7 +63,7 @@ To set up the fast-react-pizza project locally, follow the instructions below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/khaled-farahat/fast-react-pizza.git
+   git clone https://github.com/ffllyygod/fast-react-pizza.git
    cd fast-react-pizza
    ```
 
